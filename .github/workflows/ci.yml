@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 env:
-  MODULE_PATH: "./"
+  MODULE_PATH: "./EntraComplianceAuditor"
   MODULE_NAME: "EntraComplianceAuditor"
 
 jobs:
